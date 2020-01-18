@@ -1,0 +1,1 @@
+console.log ("A diligent young woman who wishes to be a knight")
